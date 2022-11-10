@@ -3,7 +3,7 @@
 	"port": "57637",
 	"name": "Bot1",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
