@@ -1,0 +1,9 @@
+{
+	"ip":"INTERFull.aternos.me",
+	"port": "57637",
+	"name": "Bot1",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
